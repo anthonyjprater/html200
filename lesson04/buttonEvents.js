@@ -4,7 +4,7 @@ function numDubs() {
   answer = Number(input)* Number(input);
   alert(answer);
 }
-
+let x = 0;
 function nummulti() {
   let first = prompt('Enter a number');
   let second = prompt('Enter a second number');
