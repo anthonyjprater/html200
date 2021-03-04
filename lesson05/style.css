@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: red;
+	opacity: .75;
+}
+.welcome {
+	display: flex;
+	margin: 2rem;
+	padding: 1rem;
+	width: 90%;
+	height: 10rem;
+	background: blue;
+	text-align: center;
+}
+#start {
+	margin: auto ;
+	text-align: center;
+	padding: 1.5rem .75rem;
+}
